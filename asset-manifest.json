@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa0ff5bf.css",
+    "main.js": "/static/js/main.fa8c2317.js",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-BoldItalic.ttf": "/static/media/Montserrat-BoldItalic.a32ae5d9b605d950167e.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/fa-light-300.woff2": "/static/media/fa-light-300.2e908a705fbc4f3dd032.woff2",
+    "static/media/fa-duotone-900.woff2": "/static/media/fa-duotone-900.93f6437645e2dacd5db3.woff2",
+    "static/media/aboutsite.png": "/static/media/aboutsite.00b039ec4343fcadb4c4.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8b41881fcd58680216e5.woff2",
+    "static/media/interno.PNG": "/static/media/interno.2922e2321711e4894caa.PNG",
+    "static/media/Vue Cinemas.png": "/static/media/Vue Cinemas.c593ecc640872d4aa578.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.779b974d95c64f091b23.woff2",
+    "static/media/green.PNG": "/static/media/green.8f5e9214b9c628627231.PNG",
+    "static/media/nout.png": "/static/media/nout.968fc5f9f6265c6bbc34.png",
+    "static/media/capabilities.png": "/static/media/capabilities.a4ae0a51d20bb91bc27d.png",
+    "static/media/slider img1.png": "/static/media/slider img1.208c263f040be40e0b33.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.5dc95a86752b76adfbea.woff2",
+    "static/media/alto.PNG": "/static/media/alto.aba9816af14a2d6efa64.PNG",
+    "static/media/slider img2.png": "/static/media/slider img2.c1a75d1be825396ffdb9.png",
+    "static/media/my work img.png": "/static/media/my work img.8dc48dff4da47b008d7d.png",
+    "static/media/shape 2.png": "/static/media/shape 2.59f1b32892bfeae00e2a.png",
+    "static/media/shape 1.png": "/static/media/shape 1.ec4f03aa23f2a72d1ec0.png",
+    "static/media/clock.PNG": "/static/media/clock.dc66db24ec5db3567608.PNG",
+    "index.html": "/index.html",
+    "main.fa0ff5bf.css.map": "/static/css/main.fa0ff5bf.css.map",
+    "main.fa8c2317.js.map": "/static/js/main.fa8c2317.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0ff5bf.css",
+    "static/js/main.fa8c2317.js"
+  ]
+}
